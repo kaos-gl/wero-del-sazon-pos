@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Usuario Mesero", "rol": "mesero" },
+  { "id": 2, "nombre": "Usuario Cajero", "rol": "cajero" },
+  { "id": 3, "nombre": "Usuario Repartidor", "rol": "repartidor" },
+  { "id": 4, "nombre": "Usuario Supervisor", "rol": "supervisor", "pin": "1234" },
+  { "id": 5, "nombre": "Usuario Gerente", "rol": "gerente" }
+]
