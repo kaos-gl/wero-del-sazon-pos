@@ -41,11 +41,11 @@
 
 | Integrante | Módulo | Dispositivo objetivo | Alcance | Rama |
 |---|---|---|---|---|
-| **[Nombre 1]** | 🧑‍🍳 **Mesero** | Tablet (NUI) | Navegación táctil, comandas con modificadores | `feature/ui-mesero` |
-| **[Nombre 2]** | 💵 **Cajero** | Escritorio (GUI) | Cobro fraccionado, cálculo de cambio | `feature/ui-cajero` |
-| **[Nombre 3]** | 🛵 **Repartidor** | Móvil (NUI) | Rutas, confirmación de entregas | `feature/ui-repartidor` |
-| **[Nombre 4]** | 🔐 **Supervisor** | Escritorio / Tablet | Autorización de descuadres con PIN | `feature/ui-supervisor` |
-| **[Nombre 5]** | 📊 **Gerente** | Escritorio (GUI) | Dashboard de métricas, alertas visuales | `feature/ui-gerente` |
+| **Axel** | 🧑‍🍳 **Mesero** | Tablet (NUI) | Navegación táctil, comandas con modificadores | `feature/ui-mesero` |
+| **Carlos** | 💵 **Cajero** | Escritorio (GUI) | Cobro fraccionado, cálculo de cambio | `feature/ui-cajero` |
+| **Luis** | 🛵 **Repartidor** | Móvil (NUI) | Rutas, confirmación de entregas | `feature/ui-repartidor` |
+| **Ian** | 🔐 **Supervisor** | Escritorio / Tablet | Autorización de descuadres con PIN | `feature/ui-supervisor` |
+| **Miguel** | 📊 **Gerente** | Escritorio (GUI) | Dashboard de métricas, alertas visuales | `feature/ui-gerente` |
 
 Cada quien trabaja **solo dentro de su carpeta** en `src/pages/<modulo>/`.
 
@@ -94,7 +94,7 @@ Después abre un **Pull Request** hacia `main` y pide la revisión de al menos 1
 Requisitos: [Node.js 20.x LTS](https://nodejs.org/) y [Git](https://git-scm.com/).
 
 ```bash
-git clone https://github.com/<usuario>/wero-del-sazon-pos.git
+git clone https://github.com/kaos-gl/wero-del-sazon-pos
 cd wero-del-sazon-pos
 npm install
 npm run dev
