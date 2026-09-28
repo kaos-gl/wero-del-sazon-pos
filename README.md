@@ -157,3 +157,8 @@ src/
 ## 📄 Licencia
 
 Proyecto académico con fines educativos — **Diseño de Interfaces de Usuario**.
+
+---
+
+
+**📝 Documentación Continua (Para el Reporte Final):** Toda decisión de diseño importante (ej. por qué cambiaste de lugar un botón para hacerlo más accesible, o por qué aplicaste un color de alerta) debe quedar documentada brevemente en la descripción de tu **Pull Request**. ¡Recuerden que de estos cambios sacaremos toda la evidencia para el reporte final de usabilidad!
