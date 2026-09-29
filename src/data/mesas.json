@@ -1,6 +1,0 @@
-[
-  { "id": 1, "estado": "libre", "capacidad": 4 },
-  { "id": 2, "estado": "ocupada", "capacidad": 2 },
-  { "id": 3, "estado": "ocupada", "capacidad": 6 },
-  { "id": 4, "estado": "reservada", "capacidad": 4 }
-]

@@ -1,6 +1,0 @@
-[
-  { "id": 1, "nombre": "Tacos de cochinita", "categoria": "Platillos", "precio": 85, "modificadores": ["Sin cebolla", "Extra salsa", "Sin picante"] },
-  { "id": 2, "nombre": "Enchiladas verdes", "categoria": "Platillos", "precio": 110, "modificadores": ["Con pollo", "Con queso", "Sin crema"] },
-  { "id": 3, "nombre": "Agua de horchata", "categoria": "Bebidas", "precio": 35, "modificadores": ["Sin hielo", "Grande"] },
-  { "id": 4, "nombre": "Flan napolitano", "categoria": "Postres", "precio": 55, "modificadores": [] }
-]
